@@ -54,6 +54,6 @@ Contributions are invaluable to the growth of an open-source community. To contr
 The project is distributed under the MIT License. See the [LICENSE](LICENSE.txt) file for more details.
 
 ## Contact 📧
-**Anjali Vaish** – [@anjalivaishh](https://twitter.com/anjalivaishh) – 
+**Anjali Vaish** – [@anjalivaishh](https://twitter.com/anjalivaishh) 
 
 **Project Link**: [https://github.com/anjali-vaish/LiveTexting](https://github.com/anjali-vaish/LiveTexting)
